@@ -1,4 +1,4 @@
-# LLM
+# An LLM Training Script
 A custom GPT-style transformer script for training and interactive chat, built from scratch with PyTorch and Hugging Face libraries.
 
 # Custom GPT Implementation Documentation
